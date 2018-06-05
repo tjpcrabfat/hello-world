@@ -1,2 +1,3 @@
 # hello-world
 First repository
+I'm a total amateur and looking for the best way to learn how to develop! Tried Stack overloasd, team treehouse, code academy. Maybe I'm just lazy...
